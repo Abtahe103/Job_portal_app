@@ -38,19 +38,34 @@
         app:layout_constraintVertical_bias="0.887" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/editTextPhoneNumber"
+        android:layout_width="247dp"
+        android:layout_height="71dp"
+        android:ems="10"
+        android:hint="Phone"
+        android:inputType="textPersonName"
+        android:textColor="#f5f0f0"
+        android:textColorHint="#f5f0f0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.545" />
+
+    <EditText
+        android:id="@+id/editTextAmount"
         android:layout_width="151dp"
         android:layout_height="84dp"
         android:ems="10"
         android:hint="Amount"
         android:inputType="textPersonName"
-        android:textColorHint="#f5f0f0"
         android:textColor="#f5f0f0"
+        android:textColorHint="#f5f0f0"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.717" />
+        app:layout_constraintVertical_bias="0.718" />
 
     <TextView
         android:id="@+id/textView3"

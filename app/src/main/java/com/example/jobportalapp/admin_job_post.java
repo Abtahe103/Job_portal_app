@@ -113,7 +113,6 @@ public class admin_job_post extends AppCompatActivity {
                         Intent intent = new Intent(admin_job_post.this,AdminJobPostList.class);
                         intent.putExtra("username",username);
                         startActivity(intent);
-
                     }
                 }
 

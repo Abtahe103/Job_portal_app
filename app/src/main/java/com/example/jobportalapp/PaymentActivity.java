@@ -30,9 +30,11 @@ public class PaymentActivity extends AppCompatActivity implements AdapterView.On
         setContentView(R.layout.activity_payment);
 
         Bundle bundle = getIntent().getExtras();
+
         if(bundle!=null){
             username = bundle.getString("username");
         }
+
         databaseReference = FirebaseDatabase.getInstance().getReference();
         phone = findViewById(R.id.editTextPhoneNumber);
         amount = findViewById(R.id.editTextAmount);
@@ -41,6 +43,7 @@ public class PaymentActivity extends AppCompatActivity implements AdapterView.On
         paymentSpinner.setOnItemSelectedListener(this);
         SpinnerAdapter adapter = new SpinnerAdapter(this,paymentMethods,paymentIcons);
         paymentSpinner.setAdapter(adapter);
+
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -49,7 +52,6 @@ public class PaymentActivity extends AppCompatActivity implements AdapterView.On
                 intent.putExtra("username",username);
                 startActivity(intent);
             }
-
 
         });
     }

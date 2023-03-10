@@ -42,6 +42,7 @@ public class admin_job_post extends AppCompatActivity {
         postButton = findViewById(R.id.postJob);
 
         Bundle bundle = getIntent().getExtras();
+
         if(bundle!=null){
             username = bundle.getString("username");
         }

@@ -41,6 +41,7 @@
 <div class="image-row">
   <img src="Screenshots_job_portal/job_seeker_dashboard.jpg" alt="Homepage" width="300" height="600">
   <img src="Screenshots_job_portal/Job_acceptance.jpg" alt="Job Details Page" width="300" height="600">
+  <img src="Screenshots_job_portal/1672203234468.jpg" alt="Job Details Page" width="300" height="600">
 </div>
 
 <div style="text-align: center;">

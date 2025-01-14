@@ -29,25 +29,31 @@
 <div class="image-row">
   <img src="Screenshots_job_portal/splash screen.jpg" alt="Homepage" width="300" height="600">
   <img src="Screenshots_job_portal/2nd page.jpg" alt="Job Details Page" width="300" height="600">
-  <img src="Screenshots_job_portal/login_page.jpg" alt="Chat Feature" width="300" height="600">
-</div>
-
-<div class="image-row">
-  <img src="Screenshots_job_portal/job_provider_dashboard.jpg" alt="Homepage" width="300" height="600">
-  <img src="Screenshots_job_portal/job_post_form.jpg" alt="Job Details Page" width="300" height="600">
-  <img src="Screenshots_job_portal/Job_list.jpg" alt="Chat Feature" width="300" height="600">
-</div>
-
-<div class="image-row">
-  <img src="Screenshots_job_portal/job_seeker_dashboard.jpg" alt="Homepage" width="300" height="600">
-  <img src="Screenshots_job_portal/Job_acceptance.jpg" alt="Job Details Page" width="300" height="600">
-  <img src="Screenshots_job_portal/1672203234468.jpg" alt="Job Details Page" width="300" height="600">
-</div>
-<div class="image-row">
-  <img src="Screenshots_job_portal/1672205034497.jpg" alt="Homepage" width="300" height="600">
   
 </div>
 
+<div class="image-row">
+  <img src="Screenshots_job_portal/login_page.jpg" alt="Chat Feature" width="300" height="600">
+  <img src="Screenshots_job_portal/job_provider_dashboard.jpg" alt="Homepage" width="300" height="600">
+ 
+</div>
+
+<div class="image-row">
+   <img src="Screenshots_job_portal/job_post_form.jpg" alt="Job Details Page" width="300" height="600">
+  <img src="Screenshots_job_portal/Job_list.jpg" alt="Chat Feature" width="300" height="600">
+  
+</div>
+<div class="image-row">
+  <img src="Screenshots_job_portal/job_seeker_dashboard.jpg" alt="Homepage" width="300" height="600">
+  <img src="Screenshots_job_portal/Job_acceptance.jpg" alt="Job Details Page" width="300" height="600">
+  
+</div>
+<div class="image-row">
+  
+  <img src="Screenshots_job_portal/1672203234468.jpg" alt="Job Details Page" width="300" height="600">
+  <img src="Screenshots_job_portal/1672205034497.jpg" alt="Homepage" width="300" height="600">
+  
+</div>
 
 </body>
 </html>

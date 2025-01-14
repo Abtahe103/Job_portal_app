@@ -48,17 +48,6 @@
   
 </div>
 
-<div style="text-align: center;">
-  <img src="path/to/job-details.jpg" alt="Job Details Page" width="300" height="600">
-  <br>
-  <em>Fig: Job Details - View job descriptions and apply with a click</em>
-</div>
-
-<div style="text-align: center;">
-  <img src="path/to/chat.jpg" alt="Chat Feature" width="300" height="600">
-  <br>
-  <em>Fig: Chat Feature - Communicate directly with employers</em>
-</div>
 
 </body>
 </html>
